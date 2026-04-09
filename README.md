@@ -72,7 +72,7 @@ With Mau, you can deploy your application in just a few clicks, allowing you to 
 
 ## Architecture Diagram
 
-![Diagram](diagram.png)
+![Diagram](./diagram.png)
 
 ## Resources
 
